@@ -1,0 +1,14 @@
+--HOW TO LAUNCH:
+- download LOVE2D game engine.
+- drag Puzzle game folder to the LOVE.exe.
+
+--HOW TO PLAY:
+GENERAL INPUT:
+- Directional arrows to move.
+- Make sure you are colliding with an interactive object then press 'Enter' key to interact with it.
+- press 'escape' key to exit the game.
+
+QUIZ INPUT (once quiz shows up):
+- press 'space' key to confirm choice.
+- press 'c' key to cancel dialog box.
+- press 'z' key to move up the choice and 's' to move down.
